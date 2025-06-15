@@ -1,0 +1,15 @@
+# .ipynb checkpoints
+**/.ipynb_checkpoints
+
+# MiKTeX & Strawberry Perl support files
+latex/**/*.aux
+latex/**/*.fdb_latexmk
+latex/**/*.fls
+latex/**/*.log
+latex/**/*.out
+latex/**/*.synctex.gz
+
+# large files (until I can fix git lfs)
+programming_in_physics
+deep_learning/model.pth
+deep_learning/training_data.zip
